@@ -1,0 +1,4 @@
+runtime: nodejs20
+# This is a template. Use the deploy_app.sh script to deploy this app.
+name: app-qtm-25e27.appspot.com
+rollout_strategy: managed
